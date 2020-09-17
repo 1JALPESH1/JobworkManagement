@@ -21,7 +21,6 @@
                             <asp:HyperLink ID="hlCustomerAdd" runat="server" Text="  Add New" NavigateUrl="~/AdminPanel/Customer/CustomerAddEdit.aspx" CssClass="btn btn-primary btn-icon-sm flaticon2-plus" />
                         </div>
                     </div>
-
                 </div>
             </div>
 
